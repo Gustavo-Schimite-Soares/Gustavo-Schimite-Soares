@@ -1,6 +1,15 @@
-### Hi there 👋
+### Olá! Eu sou o Gustavo Schimite Soares
 
-<!--
+
+- 🔭 Apaixonado por tecnologia
+<div align="center">
+  <a href="https://github.com/Gustavo-Schimite-Soares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Schimite-Soares&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Schimite-Soares&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+
+
+<!-- Comments
 **Gustavo-Schimite-Soares/Gustavo-Schimite-Soares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
