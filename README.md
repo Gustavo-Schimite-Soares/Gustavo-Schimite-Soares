@@ -4,7 +4,7 @@
 - 🔭 Apaixonado por tecnologia
 <div align="center">
   <a href="https://github.com/schimitegusta">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Schimite-Soares&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=schimitegusta&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schimitegusta&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
